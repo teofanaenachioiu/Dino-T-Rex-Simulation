@@ -20,3 +20,5 @@
 ### GUI
 
 
+![Screenshot](https://github.com/teofanaenachioiu/Dino-T-Rex-Simulation/blob/main/Dino-T-Rex-Simulation/images/start-game.png)
+![Screenshot](https://github.com/teofanaenachioiu/Dino-T-Rex-Simulation/blob/main/Dino-T-Rex-Simulation/images/simulation.png)
